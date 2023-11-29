@@ -19,7 +19,7 @@ pkg install openssl -y
 pip install requests colorama
 
 # Change directory to the cloned repository
-cd push-dc
+cd DiscordBot
 
 # Run the Python script
 python main.py
