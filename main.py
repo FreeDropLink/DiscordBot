@@ -11,7 +11,7 @@ script = "Push Rank Discord"
 print("Script: " + script)
 telegram = "@FreeDropLink"
 print("Telegram: " + telegram)
-youtube = "FreeDropLink"
+youtube = "@FreeDropLink"
 print("Youtube: " + youtube)
 print("===========================================")
 print('PERINGATAN : TIDAK UNTUK DI PERJUAL-BELIKAN')
