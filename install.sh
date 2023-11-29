@@ -4,7 +4,7 @@
 pkg install git -y
 
 # Clone the repository
-git clone https://github.com/bangpateng/push-dc
+git clone https://github.com/FreeDropLink/DiscordBot
 
 # Install Python
 pkg install python -y
