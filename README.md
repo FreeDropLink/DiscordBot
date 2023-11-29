@@ -1,4 +1,4 @@
-# push-level-discord Intsal di Termux Android
+# push-level-discord Install Di Termux Android
 ```
 pkg install git
 ```
@@ -18,7 +18,7 @@ pkg install openssl
 pip install requests colorama
 ```
 ```
-cd push-dc
+cd DiscordBot 
 ```
 ```
 python main.py
