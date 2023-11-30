@@ -3,19 +3,23 @@ import random
 import time
 import os
 from colorama import Fore
-
-print("=================================================")
+print(" █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ ")
+print(" █░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ ")
+print(" █░░║║║╠─║─║─║║║║║╠─░░█ ")
+print(" █░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ ")
+print(" █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█ \n")
+print("=======================")
 author = "FreeDropLink"
 print("Author: " + author)
-script = "Push Rank Discord"
+script = "Push Discord"
 print("Script: " + script)
 telegram = "@FreeDropLink"
 print("Telegram: " + telegram)
-youtube = "@FreeDropLink"
+youtube = " @FreeDropLink"
 print("Youtube: " + youtube)
-print("===========================================")
-print('PERINGATAN : TIDAK UNTUK DI PERJUAL-BELIKAN')
-print("===========================================\n")
+print("=======================")
+print('TIDAK DIPERJUAL-BELIKAN')
+print("=======================\n")
 
 time.sleep(1)
 
